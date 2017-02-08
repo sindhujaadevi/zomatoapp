@@ -1,0 +1,26 @@
+#search{
+}
+.result{
+	overflow: hidden;
+	padding: 20px 0 20px 0;
+}
+.movie{
+	border:3px solid #e3e3e3;
+}
+.movie img {
+	float: left;
+	width:40%;
+	height:300px;
+}
+.content{
+	float:left;
+	margin-left: 30px;
+}
+.content span{
+	color:red;
+	width:40%;
+}
+.content h3{
+	color:blue;
+
+}

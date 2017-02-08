@@ -1,0 +1,48 @@
+[07 02 2017 05:51:30.395] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[07 02 2017 07:11:43.353] [DEBUG] - Mongoose is now disconnected..!
+[07 02 2017 07:11:58.452] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[07 02 2017 07:14:11.518] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[07 02 2017 08:20:59.896] [ERROR] - Error in Mongoose connection:  Error: connection timeout
+    at Db.<anonymous> (/vagrant/expressapp/express-boilerplate/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:169:17)
+    at emitTwo (events.js:106:13)
+    at Db.emit (events.js:191:7)
+    at Server.listener (/vagrant/expressapp/express-boilerplate/node_modules/mongodb/lib/db.js:1798:14)
+    at emitOne (events.js:96:13)
+    at Server.emit (events.js:188:7)
+    at Server.<anonymous> (/vagrant/expressapp/express-boilerplate/node_modules/mongodb/lib/server.js:274:14)
+    at emitOne (events.js:96:13)
+    at Server.emit (events.js:188:7)
+    at Pool.<anonymous> (/vagrant/expressapp/express-boilerplate/node_modules/mongodb-core/lib/topologies/server.js:335:12)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/vagrant/expressapp/express-boilerplate/node_modules/mongodb-core/lib/connection/pool.js:270:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/vagrant/expressapp/express-boilerplate/node_modules/mongodb-core/lib/connection/connection.js:185:10)
+    at Socket.g (events.js:291:16)
+    at emitNone (events.js:86:13)
+    at Socket.emit (events.js:185:7)
+    at Socket._onTimeout (net.js:339:8)
+    at ontimeout (timers.js:365:14)
+[07 02 2017 08:30:17.328] [DEBUG] - Mongoose is now disconnected..!
+[07 02 2017 08:30:34.740] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[07 02 2017 08:52:57.577] [DEBUG] - Mongoose is now disconnected..!
+[07 02 2017 08:53:14.657] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[07 02 2017 08:54:18.210] [DEBUG] - Mongoose is now disconnected..!
+[07 02 2017 08:54:30.639] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[07 02 2017 08:59:51.350] [DEBUG] - Mongoose is now disconnected..!
+[07 02 2017 09:00:05.341] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[07 02 2017 09:01:03.511] [DEBUG] - Mongoose is now disconnected..!
+[07 02 2017 09:01:16.426] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[07 02 2017 09:30:38.770] [DEBUG] - Mongoose is now disconnected..!
+[07 02 2017 09:30:51.939] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[07 02 2017 10:02:48.902] [DEBUG] - Mongoose is now disconnected..!
+[07 02 2017 10:03:01.894] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[07 02 2017 17:11:37.767] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[07 02 2017 17:40:29.433] [DEBUG] - Mongoose is now disconnected..!
+[07 02 2017 17:40:42.588] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[07 02 2017 17:52:32.014] [DEBUG] - Mongoose is now disconnected..!
+[07 02 2017 17:52:43.986] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[07 02 2017 17:53:32.733] [DEBUG] - Mongoose is now disconnected..!
+[07 02 2017 18:00:53.607] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
