@@ -6,7 +6,6 @@ const restaurantModel = require('./restEntity').restaurantModel;
 // adding restaurants
 router.post('/add', function(req, res) {
     logger.debug(JSON.stringify(req.body));
-if(req.body._id !== null) {
       let restaurant = new restaurantModel(req.body);
       restaurant.save(function(err){
         if(err)
@@ -17,10 +16,6 @@ if(req.body._id !== null) {
           res.send( 'Restaurant save successfully');
         }
       });
-}
-else {
-	res.send('enter a valid restaurant Id')
-}
 });
 
 router.delete('/delete', function(req, res){
