@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 const schema = new mongoose.Schema({
-	_id : {type : String , required : true},
+	_id : String,
 	restaurantName:String,
 	cuisines:String,
 	location:String

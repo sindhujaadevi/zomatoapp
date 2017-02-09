@@ -11,10 +11,10 @@ if(req.body._id !== null) {
       restaurant.save(function(err){
         if(err)
         {
-          res.send('some error occurred');
+          res.send(err);
         }
         else {
-          res.send( ' Restaurant save successfully');
+          res.send( 'Restaurant save successfully');
         }
       });
 }
