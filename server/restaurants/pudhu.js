@@ -15,10 +15,10 @@ for(var i in data.restaurants)
   {
     if(data.restaurants[i].restaurant.location.city == location && data.restaurants[i].restaurant.cuisines.includes("Chinese") )
     {
-      // let image = data.restaurants[i].restaurant.zomato_events[0].event.photos[0].photo.thumb_url;
+    let image = data.restaurants[i].featured_image;
     //console.log('Successfully got JSON from Zomato ' + data.restaurants[i].restaurant.name);
     // <div class='image'><img src="+image+" alt='Restaurant'/></div>
-     let code = "<div class='ui card'><div class='content'><div class='header'>"+data.restaurants[i].restaurant.name+"____"+data.restaurants[i].restaurant.cuisines+"</div></div></div>";
+     let code = "<div class='ui card'><div class='image'><img src="+image+" alt='Restaurant'/></div><div class='content'><div class='header'>"+data.restaurants[i].restaurant.name+"____"+data.restaurants[i].restaurant.cuisines+"</div></div></div>";
   $('#div1').append(code);
 }
 }
