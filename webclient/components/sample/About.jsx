@@ -1,6 +1,5 @@
-var React = require('react');
-
-var GmailBox = React.createClass({
+let React = require('react');
+let About = React.createClass({
 
 render:function()
 {
@@ -10,7 +9,7 @@ render:function()
     		<div className="col-md-12">
     			<div className="jumbotron">
     				<h2>
-    					Gmail Box
+    					About Us
     				</h2>
     				<p>
     					This is Gmail Box. It is using gmail API to extract your emails.
@@ -25,4 +24,5 @@ render:function()
   );
 }
 });
-module.exports=GmailBox;
+
+module.exports=About;

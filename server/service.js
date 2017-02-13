@@ -5,6 +5,8 @@ const morgan = require('morgan');
 const mongoose = require('mongoose');
 const config = require('../config/');
 const logger = require('../applogger');
+const passport = require('../authentication/passport');
+const connectflash = require('connect-flash');
 
 function createApp() {
   const app = express();
@@ -50,14 +52,17 @@ function setupMiddlewares(app) {
   app.use(bodyParser.urlencoded({
     extended: false
   }));
-
+  app.use(passport.initialize());
+    app.use(passport.session());
+    app.use(connectflash());
+    app.use(require('express-session')({secret: 'accesskey'}));
   const compression = require('compression');
   app.use(compression());
 
-  app.use(function(req,res,next)
+  app.use(function(req, res, next)
   {
-    res.header('Access-Control-Allow-Origin',"*");
-    res.header('Access-Control-Allow-Method','GET,POST,PUT,DELETE');
+    res.header('Access-Control-Allow-Origin', '*');
+    res.header('Access-Control-Allow-Method', 'GET,POST,PUT,DELETE');
     res.header('Access-Control-Allow-Headers',
       'Origin, X-Requested-With, Content-Type, Accept, Authorization');
     next();

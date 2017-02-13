@@ -1,0 +1,103 @@
+[10 02 2017 03:54:46.847] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 03:59:17.682] [DEBUG] - {}
+[10 02 2017 03:59:47.840] [DEBUG] - Received request{}
+[10 02 2017 04:00:12.261] [DEBUG] - Received request{}
+[10 02 2017 04:03:07.769] [DEBUG] - {}
+[10 02 2017 04:04:08.109] [DEBUG] - {}
+[10 02 2017 04:12:14.907] [DEBUG] - {}
+[10 02 2017 04:12:45.171] [DEBUG] - {}
+[10 02 2017 04:13:08.159] [DEBUG] - {}
+[10 02 2017 04:13:26.998] [DEBUG] - Received request{}
+[10 02 2017 04:15:38.121] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 04:16:02.853] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 04:16:35.027] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 04:17:30.750] [DEBUG] - {}
+[10 02 2017 04:17:30.765] [DEBUG] - hi
+[10 02 2017 04:17:30.769] [DEBUG] - undefined
+[10 02 2017 04:28:03.475] [DEBUG] - {"img":"https://b.zmtcdn.com/data/pictures/9/18216679/2f7fd09eae5e093bb3877cca3b3409d0_featured_v2.jpg","name":"Tom Yum Thai","address":"725, 4th Floor, Above Clinrad Diagnostics & Research Centre, CMH Road, 1st Stage, Defence Colony, Indiranagar, Bangalore","cuisines":"Thai","ratings":"3.9"}
+[10 02 2017 04:28:03.510] [DEBUG] - hi
+[10 02 2017 04:28:03.514] [DEBUG] - Tom Yum Thai
+[10 02 2017 04:28:12.625] [DEBUG] - Received request{}
+[10 02 2017 04:38:29.619] [DEBUG] - {"img":"https://b.zmtcdn.com/data/pictures/1/18369831/7e804b70077364d78eb0e5ceeb54e111_featured_v2.jpg","name":"Punjabi","address":"165/C, Satya Sita Towers, Geddalahalli Bus Stop, Sanjay Nagar, Bangalore","cuisines":"North Indian, Chinese","ratings":"0"}
+[10 02 2017 04:38:29.626] [DEBUG] - hi
+[10 02 2017 04:38:29.634] [DEBUG] - Punjabi
+[10 02 2017 04:38:39.903] [DEBUG] - {"img":"https://b.zmtcdn.com/data/pictures/8/51518/ad962d2ec1fa2b063b49851372bb28c8_featured_v2.jpg","name":"Punjabi Times","address":"15/1, Opposite Shopper's Stop, Bannerghatta Road, Bangalore","cuisines":"North Indian","ratings":"4.1"}
+[10 02 2017 04:38:39.905] [DEBUG] - hi
+[10 02 2017 04:38:39.906] [DEBUG] - Punjabi Times
+[10 02 2017 04:38:45.060] [DEBUG] - {"img":"https://b.zmtcdn.com/data/pictures/7/51017/f53dad6388ca448800830baf77e8b7ce_featured_v2.jpg","name":"The Punjabi Rasoi","address":"152/1, 2nd Main, Canara Bank Road, 1st Stage, Off Double Road, Indiranagar, Bangalore","cuisines":"North Indian","ratings":"3.8"}
+[10 02 2017 04:38:45.070] [DEBUG] - hi
+[10 02 2017 04:38:45.073] [DEBUG] - The Punjabi Rasoi
+[10 02 2017 04:38:53.497] [DEBUG] - Received request{}
+[10 02 2017 04:41:10.493] [DEBUG] - Received request{}
+[10 02 2017 04:41:26.607] [DEBUG] - {"img":"https://b.zmtcdn.com/data/pictures/9/50829/fddfff2ff55cc315787fb2b361d32245_featured_v2.jpg","name":"Punjabi Tadka","address":"92/3, Next to Home Town, Outer Ring Road, Marathahalli, Bangalore","cuisines":"North Indian, Chinese","ratings":"2.2"}
+[10 02 2017 04:41:26.620] [DEBUG] - hi
+[10 02 2017 04:41:26.624] [DEBUG] - Punjabi Tadka
+[10 02 2017 04:41:30.352] [DEBUG] - {"img":"https://b.zmtcdn.com/data/pictures/9/54819/aa8c51fd22eb500c97e8b26e203296ab_featured_v2.jpg","name":"Punjabi By Nature Express","address":"Phoenix Market City, Whitefield, Bangalore","cuisines":"North Indian, Mughlai, Street Food","ratings":"2.4"}
+[10 02 2017 04:41:30.391] [DEBUG] - hi
+[10 02 2017 04:41:30.397] [DEBUG] - Punjabi By Nature Express
+[10 02 2017 04:41:34.698] [DEBUG] - Received request{}
+[10 02 2017 05:05:41.788] [DEBUG] - {"img":"https://b.zmtcdn.com/data/pictures/6/54416/9c408a32d42d1c10f14d8a7c710f3b6b_featured_v2.jpg","name":"Lan Thai","address":"5th Avenue Mall, Ground Floor, Brigade Road, Bangalore","cuisines":"Thai","ratings":"3.9"}
+[10 02 2017 05:05:41.816] [DEBUG] - hi
+[10 02 2017 05:05:41.827] [DEBUG] - Lan Thai
+[10 02 2017 05:05:49.375] [DEBUG] - {"img":"https://b.zmtcdn.com/data/pictures/3/18285153/3a569ce42cdf1d88fc86575c63fda0a1_featured_v2.jpg","name":"Corn Town Thai & Chinese Restaurant","address":"24th Main Road, Near Bindiya Appartment, JP Nager 5th Phase, JP Nagar, Bangalore","cuisines":"Chinese, Thai","ratings":"3.1"}
+[10 02 2017 05:05:49.385] [DEBUG] - hi
+[10 02 2017 05:05:49.391] [DEBUG] - Corn Town Thai & Chinese Restaurant
+[10 02 2017 05:05:54.946] [DEBUG] - Received request{}
+[10 02 2017 06:38:14.035] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 06:39:10.670] [DEBUG] - {}
+[10 02 2017 06:39:22.555] [DEBUG] - {}
+[10 02 2017 06:39:39.475] [DEBUG] - Received request{}
+[10 02 2017 06:41:11.300] [DEBUG] - {"img":"https://b.zmtcdn.com/data/pictures/4/72524/f93cab56ead5f5e9fb7f69a6f6e4646d_featured_v2.png","name":"Orange Wok","address":"Drowpathy Amman Koil First Street, 100 Feet Bypass Road, Next To Wildcraft Showroom, Velachery, Chennai","cuisines":"Chinese, Thai","ratings":"4.2"}
+[10 02 2017 07:49:19.845] [DEBUG] - Mongoose is now disconnected..!
+[10 02 2017 09:00:40.153] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 09:06:09.227] [DEBUG] - Mongoose is now disconnected..!
+[10 02 2017 09:06:43.259] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 09:12:32.131] [DEBUG] - {"img":"https://b.zmtcdn.com/data/pictures/7/50857/465aa7a161482d8ff0be683ebf90263d_featured_v2.jpg","name":"Rim Naam - The Oberoi","address":"The Oberoi, 37-39, MG Road, Bangalore","cuisines":"Thai","ratings":"4.6"}
+[10 02 2017 09:26:08.851] [DEBUG] - Received request{}
+[10 02 2017 10:31:27.225] [DEBUG] - Received request{}
+[10 02 2017 10:32:55.377] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 10:33:16.082] [DEBUG] - Received request{}
+[10 02 2017 10:33:18.434] [DEBUG] - Received request{}
+[10 02 2017 10:33:18.730] [DEBUG] - Received request{}
+[10 02 2017 10:33:20.068] [DEBUG] - Received request{}
+[10 02 2017 10:33:20.568] [DEBUG] - Received request{}
+[10 02 2017 10:35:34.493] [DEBUG] - Received request{}
+[10 02 2017 10:36:58.683] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 10:37:37.562] [DEBUG] - Received request{}
+[10 02 2017 10:38:14.762] [DEBUG] - Received request{}
+[10 02 2017 10:38:55.973] [DEBUG] - Received request{}
+[10 02 2017 10:39:31.446] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 10:39:36.988] [DEBUG] - Received request{}
+[10 02 2017 10:42:00.694] [DEBUG] - Received request{}
+[10 02 2017 10:47:16.828] [DEBUG] - Received request{}
+[10 02 2017 10:47:17.799] [DEBUG] - Received request{}
+[10 02 2017 10:51:56.794] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 11:04:03.873] [DEBUG] - Received request{}
+[10 02 2017 11:05:49.058] [DEBUG] - Received request{}
+[10 02 2017 11:08:45.675] [DEBUG] - Received request{}
+[10 02 2017 11:10:02.962] [DEBUG] - Mongoose is now disconnected..!
+[10 02 2017 11:10:51.453] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 11:12:29.129] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 11:14:46.204] [DEBUG] - {"img":"https://b.zmtcdn.com/data/pictures/1/18387751/813dfc83bc936caabbc191ea36512fdc_featured_v2.jpg","name":"Embrace Misun Japanese Ramen Chinese Restaurant","address":"Plot 31, Door 7, East Coast Road, Akkarai, Sholinganallur, Chennai","cuisines":"Chinese, Japanese","ratings":"3.2"}
+[10 02 2017 11:14:49.144] [DEBUG] - {"img":"https://b.zmtcdn.com/data/pictures/9/66999/39a8a68439100f234d905055feb8dea8_featured_v2.jpg","name":"Pan Asian - ITC Grand Chola","address":"ITC Grand Chola, 63, Mount Road, Guindy, Chennai","cuisines":"Japanese, Chinese, Vietnamese, Thai, Asian, Sushi","ratings":"4.5"}
+[10 02 2017 11:15:25.330] [DEBUG] - {"img":"https://b.zmtcdn.com/data/pictures/chains/4/18267824/7b90661c1d95bb7464824b654d338d6e_featured_v2.jpg","name":"Bharat Bhojan Center","address":"26, Krishnaswamy Street, Pazhavanthangal, Nanganallur, Chennai","cuisines":"North Indian, Vegetarian","ratings":"3.1"}
+[10 02 2017 11:15:35.320] [DEBUG] - {"img":"https://b.zmtcdn.com/data/pictures/3/72803/5792f29a2fa8fb56fc9506a5abc10b4e_featured_v2.jpg","name":"Prasad Vegetarian Restaurant","address":"14, 2nd Beach Lane, Parrys, Chennai","cuisines":"South Indian","ratings":"3.0"}
+[10 02 2017 11:15:40.698] [DEBUG] - Received request{}
+[10 02 2017 11:33:26.997] [DEBUG] - Received request{}
+[10 02 2017 11:33:50.283] [DEBUG] - Received request{}
+[10 02 2017 12:38:21.433] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 12:38:40.332] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 12:39:35.776] [DEBUG] - Received request{"name":"\"Punjabi Times\""}
+[10 02 2017 12:39:57.235] [DEBUG] - Received request{}
+[10 02 2017 12:40:57.668] [DEBUG] - Received request{"name":"\"Prasad Vegetarian Restaurant\""}
+[10 02 2017 12:41:12.012] [DEBUG] - Received request{}
+[10 02 2017 12:42:35.138] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 12:42:43.538] [DEBUG] - Mongoose is now disconnected..!
+[10 02 2017 12:46:36.517] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 12:46:44.861] [DEBUG] - Received request{"name":"\"Prasad Vegetarian Restaurant\""}
+[10 02 2017 12:47:43.616] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 12:47:51.720] [DEBUG] - Received request{"name":"\"Prasad Vegetarian Restaurant\""}
+[10 02 2017 12:48:18.393] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 12:49:06.629] [DEBUG] - Received request{"name":"\"Prasad Vegetarian Restaurant\""}
+[10 02 2017 12:49:16.695] [DEBUG] - Mongoose is now disconnected..!
+[10 02 2017 15:53:53.618] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB

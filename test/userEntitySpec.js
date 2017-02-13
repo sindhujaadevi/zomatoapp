@@ -1,28 +1,23 @@
+const should = require("chai").should();
+const expect = require("chai").expect;
+const assert = require ("chai").assert;
+const supertest = require("supertest");
+const user = require("../server/users/userEntity.js");
 
-const should = require('chai').should();
-const assert = require('chai').assert;
-const expect = require('chai').expect;
-const supertest = require('supertest');
-const app = require('../server/users/userEntity.js').userModel;
-
-/* testing the required field for name */
-describe('Entity user test', function(err) {
-    it('should handle the entity name', function(done) {
-        let res = new app();
-        res.validate(function(err) {
-            expect(err.errors.userName).to.exist;
-            done();
-        });
-    });
-});
-
-/* testing the required field for password */
-describe('Entity user test', function(err) {
-    it('should handle the password', function(done) {
-        let res = new app();
-        res.validate(function(err) {
-            expect(err.errors.password).to.exist;
-            done();
-        });
-    });
+/*checks whether the fields are required*/
+describe("for entity",function(){
+  it("name should be mandatory",function(done){
+      let use = new user();
+      use.validate(function(err){
+        expect(err.errors.name).to.exist;
+        done();
+      });
+  });
+  it("password should be mandatory",function(done){
+      let use = new user();
+      use.validate(function(err){
+        expect(err.errors.password).to.exist;
+        done();
+      });
+  });
 });

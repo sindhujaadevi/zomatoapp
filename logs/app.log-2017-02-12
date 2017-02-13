@@ -1,0 +1,78 @@
+[12 02 2017 05:41:18.698] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[12 02 2017 08:12:50.592] [DEBUG] - {"_id":"18371438","name":"Thai House by Kylin","address":"N-6, 1st Floor, Greater Kailash (GK) 1, New Delhi","image":"https://b.zmtcdn.com/data/pictures/8/18371438/64936a7ea3630d567747acf4d2c5b338_featured_v2.png","rating":"3.8","comments":""}
+[12 02 2017 09:00:21.780] [DEBUG] - {"_id":"18216679","name":"Tom Yum Thai","address":"725, 4th Floor, Above Clinrad Diagnostics & Research Centre, CMH Road, 1st Stage, Defence Colony, Indiranagar, Bangalore","image":"https://b.zmtcdn.com/data/pictures/9/18216679/2f7fd09eae5e093bb3877cca3b3409d0_featured_v2.jpg","rating":"3.9","comments":"yess"}
+[12 02 2017 09:25:48.649] [DEBUG] - {"_id":"51671","name":"Konark Vegetarian Restaurant","address":"50, Field Marshal Cariappa Road, Residency Road, Bangalore","image":"https://b.zmtcdn.com/data/pictures/1/51671/8cfb6c0c298b887e576f485292d143e0_featured_v2.jpg","rating":"3.8","comments":"hjgj"}
+[12 02 2017 09:29:14.119] [DEBUG] - Mongoose is now disconnected..!
+[12 02 2017 09:33:51.861] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[12 02 2017 09:35:22.627] [DEBUG] - {"_id":"56635","name":"Fujian on 24th","address":"25/1, Near Sampoorna, 24th Main, 5th Phase, JP Nagar, Bangalore","image":"https://b.zmtcdn.com/data/pictures/5/56635/865b9aec85fc327990b14a691481108d_featured_v2.jpg","rating":"3.7","comments":"ok"}
+[12 02 2017 09:42:07.488] [DEBUG] - {"_id":"52705","name":"Patil Vegetarian","address":"Cauvery Complex, S.M Road, Jalahalli Cross, Jalahalli, Bangalore","image":"https://b.zmtcdn.com/data/pictures/5/52705/a444df4707d8cd10a53392852087e423_featured_v2.jpg","rating":"3.2","comments":"oo"}
+[12 02 2017 09:48:03.713] [DEBUG] - {"_id":"61060","name":"Ravi Gobi Bindhu Chinese Center","address":"Near 2nd Stage BDA Complex, Banashankari, Bangalore","image":"https://b.zmtcdn.com/data/pictures/0/61060/3597d9c3bc1922df39b0e480fa9d042c_featured_v2.jpg","rating":"3.4","comments":"no"}
+[12 02 2017 09:54:20.558] [DEBUG] - Mongoose is now disconnected..!
+[12 02 2017 09:55:37.258] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[12 02 2017 09:57:14.355] [DEBUG] - {"_id":"60491","name":"Ambika Vegetarian Hotel","address":"10th Main Road, 3rd Block, Besides Canara Bank, Rajajinagar, Bangalore","image":"https://b.zmtcdn.com/data/pictures/1/60491/eb9644db65fea564fb340194f746eee1_featured_v2.jpg","rating":"3.4","comments":"okk"}
+[12 02 2017 10:00:36.234] [DEBUG] - {"_id":"18216679","name":"Tom Yum Thai","address":"725, 4th Floor, Above Clinrad Diagnostics & Research Centre, CMH Road, 1st Stage, Defence Colony, Indiranagar, Bangalore","image":"https://b.zmtcdn.com/data/pictures/9/18216679/2f7fd09eae5e093bb3877cca3b3409d0_featured_v2.jpg","rating":"3.9","comments":"yyyy"}
+[12 02 2017 10:00:48.354] [DEBUG] - {"_id":"50744","name":"On The Edge","address":"84, 13th Floor, Barton Center, MG Road, Bangalore","image":"https://b.zmtcdn.com/data/pictures/4/50744/ca400c2a90a1f3d6b546a41329cfc94e_featured_v2.jpg","rating":"4.1","comments":"gone"}
+[12 02 2017 10:07:19.470] [DEBUG] - Mongoose is now disconnected..!
+[12 02 2017 10:09:35.068] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[12 02 2017 10:23:58.196] [DEBUG] - {"_id":"61480","name":"Nasi And Mee","address":"974, 80 Feet Road, Koramangala 4th Block, Bangalore","image":"https://b.zmtcdn.com/data/pictures/0/61480/850b366ea50c41e13046c41cbaeb52f7_featured_v2.jpg","rating":"4.4","comments":"maybe at 25th feb"}
+[12 02 2017 10:24:17.500] [DEBUG] - {"_id":"52291","name":"Hunan","address":"123, 1st Floor, KHB Colony, Opposite California Pizza Kitchen, Koramangala 5th Block, Bangalore","image":"https://b.zmtcdn.com/data/pictures/1/52291/1e07d2508cad0bdf1b7bd25243ad7ff1_featured_v2.jpg","rating":"4.0","comments":"this weekend"}
+[12 02 2017 10:26:24.715] [DEBUG] - Mongoose is now disconnected..!
+[12 02 2017 10:39:41.765] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[12 02 2017 10:44:59.071] [DEBUG] - {"_id":"53041","name":"Yi Moi Chinese Fast Food","address":"1, Janakiram Complex, Opposite Jal Vayu Vihar, Kammanahalli, Bangalore","image":"https://b.zmtcdn.com/data/pictures/1/53041/c9f6035bd3cd7c805568b905d367a92e_featured_v2.jpg","rating":"3.4","comments":"weekend .."}
+[12 02 2017 10:45:56.105] [DEBUG] - {"_id":"53041","name":"Yi Moi Chinese Fast Food","address":"1, Janakiram Complex, Opposite Jal Vayu Vihar, Kammanahalli, Bangalore","image":"https://b.zmtcdn.com/data/pictures/1/53041/c9f6035bd3cd7c805568b905d367a92e_featured_v2.jpg","rating":"3.4","comments":"ui"}
+[12 02 2017 11:16:34.012] [DEBUG] - {"_id":"54214","name":"Chinese Kitchen","address":"Natasha Golf View Apartments, Near Diamond District, Domlur Layout, Bangalore","image":"https://b.zmtcdn.com/data/pictures/4/54214/5ae1d14f466ea70aca5d71431214fee7_featured_v2.jpg","rating":"3.2","comments":"fine"}
+[12 02 2017 11:23:14.838] [DEBUG] - {"_id":"57407","name":"Chinese Street","address":"G7, Brigade Metropolis, Garudacharpalya, Mahadevapura, Whitefield, Bangalore","image":"https://b.zmtcdn.com/data/pictures/7/57407/2eda36f237379d300628f833e2775087_featured_v2.jpg","rating":"2.4","comments":""}
+[12 02 2017 11:27:27.768] [DEBUG] - Mongoose is now disconnected..!
+[12 02 2017 11:31:39.493] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[12 02 2017 11:34:12.916] [DEBUG] - {"_id":"57407","name":"Chinese Street","address":"G7, Brigade Metropolis, Garudacharpalya, Mahadevapura, Whitefield, Bangalore","image":"https://b.zmtcdn.com/data/pictures/7/57407/2eda36f237379d300628f833e2775087_featured_v2.jpg","rating":"2.4","comments":""}
+[12 02 2017 11:34:14.195] [DEBUG] - {"_id":"57407","name":"Chinese Street","address":"G7, Brigade Metropolis, Garudacharpalya, Mahadevapura, Whitefield, Bangalore","image":"https://b.zmtcdn.com/data/pictures/7/57407/2eda36f237379d300628f833e2775087_featured_v2.jpg","rating":"2.4","comments":"i"}
+[12 02 2017 11:35:28.095] [DEBUG] - Mongoose is now disconnected..!
+[12 02 2017 11:43:48.976] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[12 02 2017 12:04:54.958] [DEBUG] - {"_id":"54214","name":"Chinese Kitchen","address":"Natasha Golf View Apartments, Near Diamond District, Domlur Layout, Bangalore","image":"https://b.zmtcdn.com/data/pictures/4/54214/5ae1d14f466ea70aca5d71431214fee7_featured_v2.jpg","rating":"3.2","comments":"okq"}
+[12 02 2017 12:05:43.100] [DEBUG] - {"_id":"55441","name":"Chinese Corner","address":"Rex Theatre, Brigade Road, Bangalore","image":"https://b.zmtcdn.com/data/pictures/1/55441/e4b3cc33abe07df52e44d69e9e8d548a_featured_v2.jpg","rating":"0","comments":"maybe"}
+[12 02 2017 12:09:03.373] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[12 02 2017 12:13:12.996] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[12 02 2017 12:18:39.370] [DEBUG] - Mongoose is now disconnected..!
+[12 02 2017 12:19:39.847] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[12 02 2017 13:20:08.773] [DEBUG] - Mongoose is now disconnected..!
+[12 02 2017 13:43:05.533] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[12 02 2017 13:45:46.525] [DEBUG] - {"_id":"18308773","name":"Chinese Street","address":"Kundalhalli, Brookefield, Bangalore","image":"https://b.zmtcdn.com/data/pictures/3/18308773/ba33a4dfc67c90a60b495a67fa57f4e9_featured_v2.jpg","rating":"2.5","comments":"okdone"}
+[12 02 2017 13:52:13.983] [DEBUG] - Mongoose is now disconnected..!
+[12 02 2017 15:47:44.610] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[12 02 2017 15:54:14.281] [DEBUG] - {"_id":"60116","name":"Chinese Corner","address":"11/3, Old Market Road, V V Puram, Basavanagudi, Bangalore","image":"https://b.zmtcdn.com/data/pictures/6/60116/9206ba36b344a9d4c667166249e2d27a_featured_v2.jpg","rating":"2.9","comments":"done"}
+[12 02 2017 17:43:28.425] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[12 02 2017 17:44:17.506] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[12 02 2017 17:44:25.369] [DEBUG] - {"_id":7,"name":"Le Promanade","address":[{"city":"Pondicherry","state":"Pondicherry"}]}
+[12 02 2017 17:44:27.061] [DEBUG] - {"_id":7,"name":"Le Paradise","address":[{"city":"Pondicherry","state":"Pondicherry"}]}
+[12 02 2017 17:44:29.269] [DEBUG] - {}
+[12 02 2017 17:44:41.315] [DEBUG] - Inside get
+[12 02 2017 17:44:41.501] [DEBUG] - string
+[12 02 2017 17:44:43.700] [DEBUG] - Inside user post
+[12 02 2017 17:44:43.714] [DEBUG] - Received request{}
+[12 02 2017 17:44:45.209] [DEBUG] - Inside user post
+[12 02 2017 17:44:45.218] [DEBUG] - Received request{"userName":"sindhu1","password":"sindhu1"}
+[12 02 2017 17:44:46.873] [DEBUG] - Inside delete
+[12 02 2017 17:44:47.204] [DEBUG] - Inside delete
+[12 02 2017 17:44:47.619] [DEBUG] - Inside update
+[12 02 2017 17:44:47.706] [DEBUG] - undefined undefined
+[12 02 2017 17:47:55.631] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[12 02 2017 17:48:03.616] [DEBUG] - {"_id":7,"name":"Le Promanade","address":[{"city":"Pondicherry","state":"Pondicherry"}]}
+[12 02 2017 17:48:05.338] [DEBUG] - {"_id":7,"name":"Le Paradise","address":[{"city":"Pondicherry","state":"Pondicherry"}]}
+[12 02 2017 17:48:07.906] [DEBUG] - {}
+[12 02 2017 17:56:21.013] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[12 02 2017 17:56:29.219] [DEBUG] - {"_id":"7","name":"Le Promanade"}
+[12 02 2017 17:56:30.868] [DEBUG] - {}
+[12 02 2017 18:00:40.355] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[12 02 2017 18:00:48.687] [DEBUG] - {"_id":"7","name":"Le Promanade"}
+[12 02 2017 18:00:50.346] [DEBUG] - {}
+[12 02 2017 18:04:12.061] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[12 02 2017 18:04:20.030] [DEBUG] - {"_id":"7","name":"Le Promanade"}
+[12 02 2017 18:04:21.938] [DEBUG] - {}
+[12 02 2017 18:05:23.780] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[12 02 2017 18:11:17.550] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[12 02 2017 18:12:42.521] [DEBUG] - Mongoose is now disconnected..!
+[12 02 2017 18:13:01.035] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[12 02 2017 18:17:33.469] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[12 02 2017 18:20:25.501] [DEBUG] - {"_id":"57407","name":"Chinese Street","address":"G7, Brigade Metropolis, Garudacharpalya, Mahadevapura, Whitefield, Bangalore","image":"https://b.zmtcdn.com/data/pictures/7/57407/2eda36f237379d300628f833e2775087_featured_v2.jpg","rating":"2.4","comments":"uy"}
+[12 02 2017 18:27:25.231] [DEBUG] - {"_id":"57407","name":"Chinese Street","address":"G7, Brigade Metropolis, Garudacharpalya, Mahadevapura, Whitefield, Bangalore","image":"https://b.zmtcdn.com/data/pictures/7/57407/2eda36f237379d300628f833e2775087_featured_v2.jpg","rating":"2.4","comments":"ok"}
+[12 02 2017 18:37:02.603] [DEBUG] - Mongoose is now disconnected..!

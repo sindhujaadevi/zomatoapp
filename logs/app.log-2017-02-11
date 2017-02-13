@@ -1,0 +1,63 @@
+[11 02 2017 05:41:52.951] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 05:44:03.983] [DEBUG] - Mongoose is now disconnected..!
+[11 02 2017 05:44:21.488] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 05:45:45.860] [DEBUG] - Received request{}
+[11 02 2017 06:19:46.336] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 06:20:15.668] [DEBUG] - Received request{}
+[11 02 2017 06:21:47.494] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 06:23:02.997] [DEBUG] - Received request{}
+[11 02 2017 06:24:16.642] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 06:24:38.083] [DEBUG] - Received request{}
+[11 02 2017 06:25:06.660] [DEBUG] - Mongoose is now disconnected..!
+[11 02 2017 06:52:36.461] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 06:53:24.736] [DEBUG] - Received request{}
+[11 02 2017 07:01:40.957] [DEBUG] - Received request{}
+[11 02 2017 07:07:20.396] [DEBUG] - Received request{}
+[11 02 2017 07:24:49.581] [DEBUG] - Mongoose is now disconnected..!
+[11 02 2017 07:25:02.831] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 08:35:38.084] [DEBUG] - Mongoose is now disconnected..!
+[11 02 2017 10:45:25.103] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 10:58:11.622] [DEBUG] - Received request{}
+[11 02 2017 10:59:11.927] [DEBUG] - {"img":"https://b.zmtcdn.com/data/pictures/5/50595/28b5d24b0dfcf6b773e83d52de8c5c1e_featured_v2.jpg","name":"Konark Vegetarian Restaurant","address":"49, 2nd Floor, Next to Bata showroom, Commercial Street, Bangalore","cuisines":"North Indian, Chinese, South Indian","ratings":"3.9"}
+[11 02 2017 10:59:20.672] [DEBUG] - {"img":"https://b.zmtcdn.com/data/pictures/1/60491/eb9644db65fea564fb340194f746eee1_featured_v2.jpg","name":"Ambika Vegetarian Hotel","address":"10th Main Road, 3rd Block, Besides Canara Bank, Rajajinagar, Bangalore","cuisines":"North Indian, Fast Food","ratings":"3.4"}
+[11 02 2017 10:59:23.488] [DEBUG] - {"img":"https://b.zmtcdn.com/data/pictures/0/59370/5329b7dc97d4541f11308ada5c534230_featured_v2.jpg","name":"Konark Vegetarian Restaurant","address":"Sree Kanteerava Outdoor Stadium Main Gate, Kasturba Road, Lavelle Road, Bangalore","cuisines":"North Indian, Chinese, Continental, South Indian","ratings":"3.3"}
+[11 02 2017 10:59:30.608] [DEBUG] - Received request{}
+[11 02 2017 11:00:20.224] [DEBUG] - Received request{}
+[11 02 2017 13:13:50.035] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 13:14:24.947] [DEBUG] - Received request{}
+[11 02 2017 13:15:34.704] [DEBUG] - Mongoose is now disconnected..!
+[11 02 2017 13:41:23.100] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 14:28:43.329] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 14:33:00.083] [DEBUG] - {"id":"58698","img":"https://b.zmtcdn.com/data/pictures/8/58698/7dab524a39737db90e17c41b6a44449a_featured_v2.jpg","name":"Mamagoto","address":"949, 12th Main, Ground Floor, Off 100 Feet Road, Indiranagar, Bangalore","cuisines":"Asian, Thai, Chinese","ratings":"4.3"}
+[11 02 2017 14:42:00.169] [DEBUG] - {"id":"58243","img":"https://b.zmtcdn.com/data/pictures/3/58243/ba038307094b301a19ae6fc4f7d09db7_featured_v2.jpg","name":"Tim Tai","address":"130, 1st Cross, Koramangala 5th Block, Bangalore","cuisines":"Chinese, Thai, Asian","ratings":"4.3"}
+[11 02 2017 14:42:09.033] [DEBUG] - Received request{}
+[11 02 2017 14:42:43.486] [DEBUG] - {"id":"54416","img":"https://b.zmtcdn.com/data/pictures/6/54416/9c408a32d42d1c10f14d8a7c710f3b6b_featured_v2.jpg","name":"Lan Thai","address":"5th Avenue Mall, Ground Floor, Brigade Road, Bangalore","cuisines":"Thai","ratings":"3.9"}
+[11 02 2017 14:48:23.523] [DEBUG] - Mongoose is now disconnected..!
+[11 02 2017 15:26:48.856] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 15:29:11.067] [DEBUG] - Received request{}
+[11 02 2017 15:33:58.990] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 15:35:03.189] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 15:42:38.846] [DEBUG] - Mongoose is now disconnected..!
+[11 02 2017 16:10:38.729] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 16:32:36.693] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 16:35:06.415] [DEBUG] - Mongoose is now disconnected..!
+[11 02 2017 16:36:10.260] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 16:37:54.843] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 16:38:19.126] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 17:10:20.436] [DEBUG] - Mongoose is now disconnected..!
+[11 02 2017 17:12:06.325] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 17:19:18.809] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 17:33:59.846] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 17:49:48.832] [DEBUG] - {"_id":"58243","name":"Tim Tai","address":"130, 1st Cross, Koramangala 5th Block, Bangalore","rating":"4.3","comments":"yummy"}
+[11 02 2017 17:53:43.820] [DEBUG] - {"_id":"65820","name":"Madras - The Raintree","address":"The Raintree, 636, Anna Salai, Teynampet, Chennai","rating":"4.0","comments":""}
+[11 02 2017 17:58:07.532] [DEBUG] - Mongoose is now disconnected..!
+[11 02 2017 18:15:14.180] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 18:16:55.527] [DEBUG] - Mongoose is now disconnected..!
+[11 02 2017 18:20:41.288] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 18:44:25.295] [DEBUG] - {"_id":"301562","name":"Thai Pavilion - Vivanta By Taj","address":"Vivanta by Taj, Near HUDA City Center Metro Station, Sector 44, Gurgaon","image":"https://b.zmtcdn.com/data/pictures/2/301562/46ab4c68b2b23b58b394a763c2096fa4_featured_v2.jpg","rating":"4.0","comments":"at 9"}
+[11 02 2017 18:59:45.950] [DEBUG] - Mongoose is now disconnected..!
+[11 02 2017 19:05:21.923] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[11 02 2017 19:30:33.325] [DEBUG] - {"_id":"50567","name":"Kerala Pavilion","address":"765, 1st Floor, 1st Main, Domlur Layout, Domlur, Bangalore","image":"https://b.zmtcdn.com/data/pictures/7/50567/2a92edb671f134c27f38978209efbe20_featured_v2.jpg","rating":"3.2","comments":"ok"}
+[11 02 2017 19:54:09.441] [DEBUG] - {"_id":"50279","name":"Chung's Chinese Corner","address":"401, 5th A Main, 2nd Block, HRBR Layout, Kalyan Nagar, Bangalore","image":"https://b.zmtcdn.com/data/pictures/chains/9/50279/10fe6b6ae14904dd3bf2e2aab0afc26f_featured_v2.jpeg","rating":"2.7","comments":"sat at8pm"}
+[11 02 2017 21:27:47.793] [DEBUG] - {"_id":"57407","name":"Chinese Street","address":"G7, Brigade Metropolis, Garudacharpalya, Mahadevapura, Whitefield, Bangalore","image":"https://b.zmtcdn.com/data/pictures/7/57407/2eda36f237379d300628f833e2775087_featured_v2.jpg","rating":"2.4","comments":""}
+[11 02 2017 21:28:07.428] [DEBUG] - {"_id":"18346341","name":"Hakka Chinese Restaurant","address":"891/ A, 7th Main Road, Near Wipro Park, Koramangala 1st Block, Bangalore","image":"https://b.zmtcdn.com/data/pictures/1/18346341/9e8cea31ea30781690989fec21aae383_featured_v2.jpg","rating":"3.8","comments":"seee"}
