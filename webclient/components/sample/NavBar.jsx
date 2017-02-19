@@ -14,9 +14,9 @@ class NavBar extends React.Component {
 
         return (
             <Menu pointing>
-              <Link to="/">
+              {/* <Link to="/">
                   <Menu.Item name='login' active={status === 'login'} onClick={this.itemClick}/>
-              </Link>
+              </Link> */}
                 <Link to="/home">
                     <Menu.Item name='Home' active={status === 'home'} onClick={this.itemClick}/></Link>
                 <Link to="/view">

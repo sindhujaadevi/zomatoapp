@@ -1,1 +1,1 @@
-module.exports = require('./restaurantRouter');
+module.exports = require('./restRouter');

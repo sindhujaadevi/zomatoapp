@@ -24,8 +24,8 @@ MainComp.propTypes = {
 };
 ReactDOM.render(
   <Router history={browserHistory}>
-                <Route path="/" component={MainComp}>
-                <IndexRoute component = {login}/>
+    <Route path='/' component={login}/>
+              <Route component={MainComp}>
                <Route path='/home' component={Search}/>
                <Route path="/view" component={Favs}/>
               </Route>

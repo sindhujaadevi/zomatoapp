@@ -1,0 +1,141 @@
+[13 02 2017 01:00:12.222] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 01:34:31.595] [DEBUG] - Mongoose is now disconnected..!
+[13 02 2017 04:01:47.890] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 04:08:08.124] [DEBUG] - {"_id":"54416","name":"Lan Thai","address":"5th Avenue Mall, Ground Floor, Brigade Road, Bangalore","image":"https://b.zmtcdn.com/data/pictures/6/54416/9c408a32d42d1c10f14d8a7c710f3b6b_featured_v2.jpg","rating":"3.9","comments":"ggt"}
+[13 02 2017 05:11:18.060] [DEBUG] - {"_id":"60552","name":"Indian Coffee House & Restaurant","address":"55, Opposite Jyoti Nivas College, Industrial Layout, Koramangala 5th Block, Bangalore","image":"https://b.zmtcdn.com/data/pictures/2/60552/3629bb8a6b5fcbf89c16df2bb514402e_featured_v2.jpg","rating":"3.8","comments":""}
+[13 02 2017 06:26:27.960] [DEBUG] - {"_id":"57407","name":"Chinese Street","address":"G7, Brigade Metropolis, Garudacharpalya, Mahadevapura, Whitefield, Bangalore","image":"https://b.zmtcdn.com/data/pictures/7/57407/2eda36f237379d300628f833e2775087_featured_v2.jpg","rating":"2.4","comments":"pop"}
+[13 02 2017 06:31:43.667] [DEBUG] - Mongoose is now disconnected..!
+[13 02 2017 06:35:26.199] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 06:38:45.746] [DEBUG] - Mongoose is now disconnected..!
+[13 02 2017 06:38:59.550] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 07:10:23.126] [DEBUG] - {"_id":"54214","name":"Chinese Kitchen","address":"Natasha Golf View Apartments, Near Diamond District, Domlur Layout, Bangalore","image":"https://b.zmtcdn.com/data/pictures/4/54214/5ae1d14f466ea70aca5d71431214fee7_featured_v2.jpg","rating":"3.2","comments":"ok"}
+[13 02 2017 07:10:32.239] [DEBUG] - {"_id":"57407","name":"Chinese Street","address":"G7, Brigade Metropolis, Garudacharpalya, Mahadevapura, Whitefield, Bangalore","image":"https://b.zmtcdn.com/data/pictures/7/57407/2eda36f237379d300628f833e2775087_featured_v2.jpg","rating":"2.4","comments":"done"}
+[13 02 2017 07:13:11.533] [DEBUG] - {"_id":"60116","name":"Chinese Corner","address":"11/3, Old Market Road, V V Puram, Basavanagudi, Bangalore","image":"https://b.zmtcdn.com/data/pictures/6/60116/9206ba36b344a9d4c667166249e2d27a_featured_v2.jpg","rating":"2.9","comments":"okk"}
+[13 02 2017 07:35:15.189] [DEBUG] - {"_id":"56187","name":"Chinese Street","address":"5th Floor, Bangalore Central, Bellandur, Bangalore","image":"https://b.zmtcdn.com/data/pictures/7/56187/915730d7a3b4624eb5e3bb90645116e9_featured_v2.jpg","rating":"2.3","comments":"bye"}
+[13 02 2017 07:37:11.474] [DEBUG] - {"_id":"72582","name":"Thai Food House","address":"215/131, St. Mary's Road, Opposite Crowne Plaza, Alwarpet, Chennai","image":"https://b.zmtcdn.com/data/pictures/2/72582/45be915c1c373bdd855bca0f16a3969e_featured_v2.jpg","rating":"3.7","comments":"ok"}
+[13 02 2017 08:58:23.448] [DEBUG] - {"_id":"72582","name":"Thai Food House","address":"215/131, St. Mary's Road, Opposite Crowne Plaza, Alwarpet, Chennai","image":"https://b.zmtcdn.com/data/pictures/2/72582/45be915c1c373bdd855bca0f16a3969e_featured_v2.jpg","rating":"3.7","comments":"done"}
+[13 02 2017 08:59:04.070] [DEBUG] - {"_id":"54416","name":"Lan Thai","address":"5th Avenue Mall, Ground Floor, Brigade Road, Bangalore","image":"https://b.zmtcdn.com/data/pictures/6/54416/9c408a32d42d1c10f14d8a7c710f3b6b_featured_v2.jpg","rating":"3.9","comments":"kk"}
+[13 02 2017 09:28:05.306] [DEBUG] - {"_id":"71657","name":"The Chinese Story","address":"Plot 4 Mount Poonamalee High Road, Ramapuram, Chennai","image":"https://b.zmtcdn.com/data/pictures/7/71657/f90611c3d1d2afe9411d92697059d7c0_featured_v2.jpg","rating":"4.0","comments":"joy"}
+[13 02 2017 09:28:19.766] [DEBUG] - {"_id":"65565","name":"The Cascade","address":"1632, Platinum Tower, Khader Nawaz Khan Road, Nungambakkam, Chennai","image":"https://b.zmtcdn.com/data/pictures/5/65565/2d0405af1107da7e50581fec87335b82_featured_v2.jpg","rating":"4.0","comments":""}
+[13 02 2017 09:49:07.003] [DEBUG] - {"_id":"18285153","name":"Corn Town Thai & Chinese Restaurant","address":"24th Main Road, Near Bindiya Appartment, JP Nager 5th Phase, JP Nagar, Bangalore","image":"https://b.zmtcdn.com/data/pictures/3/18285153/3a569ce42cdf1d88fc86575c63fda0a1_featured_v2.jpg","rating":"3.1","comments":"ok"}
+[13 02 2017 09:58:58.179] [DEBUG] - {"_id":"54416","name":"Lan Thai","address":"5th Avenue Mall, Ground Floor, Brigade Road, Bangalore","image":"https://b.zmtcdn.com/data/pictures/6/54416/9c408a32d42d1c10f14d8a7c710f3b6b_featured_v2.jpg","rating":"3.9","comments":"oo"}
+[13 02 2017 11:08:47.262] [DEBUG] - {"_id":"54416","name":"Lan Thai","address":"5th Avenue Mall, Ground Floor, Brigade Road, Bangalore","image":"https://b.zmtcdn.com/data/pictures/6/54416/9c408a32d42d1c10f14d8a7c710f3b6b_featured_v2.jpg","rating":"3.9","comments":"spicy"}
+[13 02 2017 11:29:54.593] [DEBUG] - Mongoose is now disconnected..!
+[13 02 2017 11:57:56.217] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 12:51:55.167] [DEBUG] - Mongoose is now disconnected..!
+[13 02 2017 13:03:05.184] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:04:07.808] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:04:37.182] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:05:40.611] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:06:24.283] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:07:20.037] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:14:05.652] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:15:39.449] [DEBUG] - Inside user post
+[13 02 2017 13:15:39.463] [DEBUG] - Received request{"username":"\"admin\"","password":"\"admin\""}
+[13 02 2017 13:16:35.293] [DEBUG] - Inside get
+[13 02 2017 13:20:51.315] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:24:29.213] [DEBUG] - Mongoose is now disconnected..!
+[13 02 2017 13:30:34.596] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:32:10.600] [DEBUG] - Mongoose is now disconnected..!
+[13 02 2017 13:34:43.610] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:34:49.887] [DEBUG] - Inside user post
+[13 02 2017 13:34:49.889] [DEBUG] - Received request{"username":"\"admin\"","password":"\"admin\""}
+[13 02 2017 13:34:57.718] [DEBUG] - Inside get
+[13 02 2017 13:35:10.617] [DEBUG] - Mongoose is now disconnected..!
+[13 02 2017 13:41:23.173] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:43:10.884] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:55:11.304] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:59:21.258] [DEBUG] - Mongoose is now disconnected..!
+[13 02 2017 17:11:50.673] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 17:12:37.557] [DEBUG] - Inside user post
+[13 02 2017 17:12:37.565] [DEBUG] - Received request{"username":"\"sam\"","password":"\"sam\""}
+[13 02 2017 18:47:46.663] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 18:52:19.975] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 18:52:51.832] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 18:53:05.877] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 18:54:57.481] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 18:56:41.268] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 18:57:33.799] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 18:57:57.823] [DEBUG] - Mongoose is now disconnected..!
+[13 02 2017 19:00:57.092] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 19:01:05.141] [DEBUG] - {"_id":"7","name":"Le Promanade","address":"Pondicherry","image":"hbc","rating":"3","comments":"good"}
+[13 02 2017 19:01:06.620] [DEBUG] - {"_id":"7","name":"Le Promanade","address":"Pondicherry","image":"hbc","rating":"3","comments":"good"}
+[13 02 2017 19:01:09.503] [DEBUG] - {}
+[13 02 2017 19:01:16.035] [DEBUG] - {"_id":1,"name":"yuva","password":"1234"}
+[13 02 2017 19:01:19.090] [DEBUG] - {"_id":1,"name":"yuva","password":"1234"}
+[13 02 2017 19:01:19.202] [DEBUG] - {}
+[13 02 2017 19:11:59.860] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 19:12:10.081] [DEBUG] - {"_id":"7","name":"Le Promanade","address":"Pondicherry","image":"hbc","rating":"3","comments":"good"}
+[13 02 2017 19:12:13.324] [DEBUG] - {"_id":"7","name":"Le Promanade","address":"Pondicherry","image":"hbc","rating":"3","comments":"good"}
+[13 02 2017 19:12:17.616] [DEBUG] - {}
+[13 02 2017 19:12:24.640] [DEBUG] - {"_id":1,"name":"admin","password":"admin"}
+[13 02 2017 19:12:24.847] [DEBUG] - {"_id":1,"name":"admin","password":"admin"}
+[13 02 2017 19:12:27.570] [DEBUG] - {}
+[13 02 2017 19:13:16.922] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 19:13:26.346] [DEBUG] - {"_id":"7","name":"Le Promanade","address":"Pondicherry","image":"hbc","rating":"3","comments":"good"}
+[13 02 2017 19:13:29.449] [DEBUG] - {"_id":"7","name":"Le Promanade","address":"Pondicherry","image":"hbc","rating":"3","comments":"good"}
+[13 02 2017 19:13:32.669] [DEBUG] - {}
+[13 02 2017 19:13:39.248] [DEBUG] - {"_id":1,"name":"admin","password":"admin"}
+[13 02 2017 19:13:39.513] [DEBUG] - {"_id":1,"name":"admin","password":"admin"}
+[13 02 2017 19:13:42.767] [DEBUG] - {}
+[13 02 2017 19:18:16.855] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 19:18:26.112] [DEBUG] - {"_id":"7","name":"Le Promanade","address":"Pondicherry","image":"hbc","rating":"3","comments":"good"}
+[13 02 2017 19:18:29.120] [DEBUG] - {"_id":"7","name":"Le Promanade","address":"Pondicherry","image":"hbc","rating":"3","comments":"good"}
+[13 02 2017 19:18:32.312] [DEBUG] - {}
+[13 02 2017 19:18:39.234] [DEBUG] - {"_id":1,"name":"admin","password":"admin"}
+[13 02 2017 19:18:39.399] [DEBUG] - {"_id":1,"name":"admin","password":"admin"}
+[13 02 2017 19:18:39.730] [DEBUG] - {}
+[13 02 2017 19:19:29.955] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 19:19:39.426] [DEBUG] - {"_id":"7","name":"Le Promanade","address":"Pondicherry","image":"hbc","rating":"3","comments":"good"}
+[13 02 2017 19:19:42.093] [DEBUG] - {"_id":"7","name":"Le Promanade","address":"Pondicherry","image":"hbc","rating":"3","comments":"good"}
+[13 02 2017 19:19:45.661] [DEBUG] - {}
+[13 02 2017 19:19:52.077] [DEBUG] - {"_id":1,"name":"admin","password":"1234"}
+[13 02 2017 19:19:52.651] [DEBUG] - {"_id":1,"name":"admin","password":"1234"}
+[13 02 2017 19:19:55.439] [DEBUG] - {}
+[13 02 2017 19:20:50.700] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 19:21:00.925] [DEBUG] - {"_id":"7","name":"Le Promanade","address":"Pondicherry","image":"hbc","rating":"3","comments":"good"}
+[13 02 2017 19:21:04.642] [DEBUG] - {"_id":"7","name":"Le Promanade","address":"Pondicherry","image":"hbc","rating":"3","comments":"good"}
+[13 02 2017 19:21:07.362] [DEBUG] - {}
+[13 02 2017 19:21:13.645] [DEBUG] - {"_id":1,"name":"admin","password":"1234"}
+[13 02 2017 19:21:14.008] [DEBUG] - {"_id":1,"name":"admin","password":"1234"}
+[13 02 2017 19:21:15.864] [DEBUG] - {}
+[13 02 2017 19:22:08.008] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 19:22:18.630] [DEBUG] - {"_id":"7","name":"Le Promanade","address":"Pondicherry","image":"hbc","rating":"3","comments":"good"}
+[13 02 2017 19:22:21.479] [DEBUG] - {"_id":"7","name":"Le Promanade","address":"Pondicherry","image":"hbc","rating":"3","comments":"good"}
+[13 02 2017 19:22:25.472] [DEBUG] - {}
+[13 02 2017 19:22:32.395] [DEBUG] - {"_id":1,"name":"admin","password":"admin"}
+[13 02 2017 19:22:32.571] [DEBUG] - {"_id":1,"name":"admin","password":"admin"}
+[13 02 2017 19:22:36.003] [DEBUG] - {}
+[13 02 2017 19:23:03.931] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 19:23:13.418] [DEBUG] - {"_id":"7","name":"Le Promanade","address":"Pondicherry","image":"hbc","rating":"3","comments":"good"}
+[13 02 2017 19:23:16.427] [DEBUG] - {"_id":"7","name":"Le Promanade","address":"Pondicherry","image":"hbc","rating":"3","comments":"good"}
+[13 02 2017 19:23:19.266] [DEBUG] - {}
+[13 02 2017 19:23:26.482] [DEBUG] - {"_id":1,"name":"admin","password":"admin"}
+[13 02 2017 19:23:26.638] [DEBUG] - {"_id":1,"name":"admin","password":"admin"}
+[13 02 2017 19:23:27.075] [DEBUG] - {}
+[13 02 2017 19:24:14.511] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 19:24:24.097] [DEBUG] - {"_id":"7","name":"Le Promanade","address":"Pondicherry","image":"hbc","rating":"3","comments":"good"}
+[13 02 2017 19:24:26.842] [DEBUG] - {"_id":"7","name":"Le Promanade","address":"Pondicherry","image":"hbc","rating":"3","comments":"good"}
+[13 02 2017 19:24:30.393] [DEBUG] - {}
+[13 02 2017 19:24:36.422] [DEBUG] - {"_id":1,"name":"admin","password":"1234"}
+[13 02 2017 19:24:36.615] [DEBUG] - {"_id":1,"name":"admin","password":"1234"}
+[13 02 2017 19:24:36.908] [DEBUG] - {}
+[13 02 2017 19:25:28.724] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 19:25:38.671] [DEBUG] - {"_id":"7","name":"Le Promanade","address":"Pondicherry","image":"hbc","rating":"3","comments":"good"}
+[13 02 2017 19:25:42.161] [DEBUG] - {"_id":"7","name":"Le Promanade","address":"Pondicherry","image":"hbc","rating":"3","comments":"good"}
+[13 02 2017 19:25:44.824] [DEBUG] - {}
+[13 02 2017 19:25:50.892] [DEBUG] - {"_id":1,"name":"admin","password":"1234"}
+[13 02 2017 19:25:51.040] [DEBUG] - {"_id":1,"name":"admin","password":"1234"}
+[13 02 2017 19:25:51.433] [DEBUG] - {}
+[13 02 2017 19:26:11.608] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 19:26:21.387] [DEBUG] - {"_id":"7","name":"Le Promanade","address":"Pondicherry","image":"hbc","rating":"3","comments":"good"}
+[13 02 2017 19:26:23.939] [DEBUG] - {"_id":"7","name":"Le Promanade","address":"Pondicherry","image":"hbc","rating":"3","comments":"good"}
+[13 02 2017 19:26:27.731] [DEBUG] - {}
+[13 02 2017 19:26:30.873] [DEBUG] - {"_id":1,"name":"admin","password":"1234"}
+[13 02 2017 19:26:34.116] [DEBUG] - {"_id":1,"name":"admin","password":"1234"}
+[13 02 2017 19:26:35.370] [DEBUG] - {}
+[13 02 2017 19:30:35.459] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 19:54:41.991] [DEBUG] - Mongoose is now disconnected..!
+[13 02 2017 20:06:28.152] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 20:23:39.233] [DEBUG] - {"_id":"61480","name":"Nasi And Mee","address":"974, 80 Feet Road, Koramangala 4th Block, Bangalore","image":"https://b.zmtcdn.com/data/pictures/0/61480/850b366ea50c41e13046c41cbaeb52f7_featured_v2.jpg","rating":"4.4","comments":"ok"}
+[13 02 2017 20:34:50.709] [DEBUG] - Mongoose is now disconnected..!
